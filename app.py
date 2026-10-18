@@ -141,7 +141,7 @@ menu = [
     {
         "id": "thali",
         "name": "Healthy Thali",
-        "price": " ",
+        "price": 0,
         "image": "",
         "tag": "100% Vegetarian",
         "description": (
@@ -152,7 +152,7 @@ menu = [
     {
         "id": "roti-sabji-channa",
         "name": "Roti – Sabji – Channa",
-        "price": "",
+        "price": 0,
         "image": "",
         "tag": "Student Favourite",
         "description": (
@@ -163,7 +163,7 @@ menu = [
     {
         "id": "honey-roll",
         "name": "Honey Roll",
-        "price": "",
+        "price": 0,
         "image": "",
         "tag": "Healthy Snack",
         "description": (
@@ -174,7 +174,7 @@ menu = [
     {
         "id": "power-breakfast",
         "name": "Power Breakfast",
-        "price": "",
+        "price": 0,
         "image": "",
         "tag": "Start Your Day Right",
         "description": (
@@ -185,7 +185,7 @@ menu = [
     {
         "id": "aloo-paratha",
         "name": "Aloo Paratha",
-        "price": "",
+        "price": 0,
         "image": "",
         "tag": "Classic Favourite",
         "description": (
@@ -196,7 +196,7 @@ menu = [
     {
         "id": "energy-meal",
         "name": "Energy Meal",
-        "price": "",
+        "price": 0,
         "image": "",
         "tag": "Wholesome Meal",
         "description": (
@@ -207,7 +207,7 @@ menu = [
     {
         "id": "salad",
         "name": "Salad with Steamed Vegetables",
-        "price": "",
+        "price": 0,
         "image": "",
         "tag": "Fresh & Colourful",
         "description": (
